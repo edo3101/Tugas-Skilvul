@@ -1,0 +1,15 @@
+C:\Kuliah\tes\Tugas-Skilvul\bin\Debug\net6.0\Tugas-Skilvul.exe
+C:\Kuliah\tes\Tugas-Skilvul\bin\Debug\net6.0\Tugas-Skilvul.deps.json
+C:\Kuliah\tes\Tugas-Skilvul\bin\Debug\net6.0\Tugas-Skilvul.runtimeconfig.json
+C:\Kuliah\tes\Tugas-Skilvul\bin\Debug\net6.0\Tugas-Skilvul.dll
+C:\Kuliah\tes\Tugas-Skilvul\bin\Debug\net6.0\Tugas-Skilvul.pdb
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.csproj.AssemblyReference.cache
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.AssemblyInfoInputs.cache
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.AssemblyInfo.cs
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.csproj.CoreCompileInputs.cache
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.dll
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\refint\Tugas-Skilvul.dll
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.pdb
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\Tugas-Skilvul.genruntimeconfig.cache
+C:\Kuliah\tes\Tugas-Skilvul\obj\Debug\net6.0\ref\Tugas-Skilvul.dll
